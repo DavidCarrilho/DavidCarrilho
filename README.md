@@ -34,12 +34,12 @@
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
 [<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
 
-
+<!--  -->
 
 <br />
 <br />
 
----
+<!-- --- -->
 
 <!-- ### 📺 &ensp;Latest YouTube Videos -->
 
@@ -55,22 +55,22 @@
 
 ---
 
-### 📚 &ensp;Latest Medium Articles
+<!-- ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ &ensp;[More Articles...](https://medium.com/@DavidCarrilho)
+➡️ &ensp;[More Articles...](https://medium.com/@DavidCarrilho) -->
 
+<!--  -->
 
-
-[website]: https://daviddarrilho.com
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDavidCarrilho&screen_name=DavidCarrilho
-[youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
-[linkedin]: https://linkedin.com/in/DavidCarrilho
+<!-- [website]: https://daviddarrilho.com -->
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=luandavid77
+<!-- [youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1 -->
+[linkedin]: https://www.linkedin.com/in/luan-david-carrilho-765981a8/
 [github]: https://github.com/DavidCarrilho
-[instagram]: https://www.instagram.com/daviddarrilho
-[facebook]: https://www.facebook.com/real.DavidCarrilho
-[medium]: https://medium.com/@DavidCarrilho
+<!-- [instagram]: https://www.instagram.com/daviddarrilho -->
+<!-- [facebook]: https://www.facebook.com/real.DavidCarrilho -->
+<!-- [medium]: https://medium.com/@DavidCarrilho -->
 [email]: mailto:luan.david.oliver@gmail.com
