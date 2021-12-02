@@ -1,10 +1,10 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">David Carrilho!</a></h1>
 <h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
-[![Youtube](https://img.shields.io/static/v1?label=DavidCarrilho&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+<!-- [![Youtube](https://img.shields.io/static/v1?label=DavidCarrilho&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/DavidCarrilho?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/DavidCarrilho?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: DavidCarrilho](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/DavidCarrilho/)][linkedin]
+[![Linkedin: DavidCarrilho](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/DavidCarrilho/)][linkedin] -->
 
 - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]!
 - 🌱 &ensp;I’m currently learning Flutter ❤️
@@ -41,17 +41,17 @@
 
 ---
 
-### 📺 &ensp;Latest YouTube Videos
+<!-- ### 📺 &ensp;Latest YouTube Videos -->
 
 <!-- YOUTUBE:START -->
-- [Flutter Preview - Preserve Scroll Position In ListView [2021] Page Storage Key #Shorts](https://www.youtube.com/watch?v=dSDIs8jPL3Q)
+<!-- - [Flutter Preview - Preserve Scroll Position In ListView [2021] Page Storage Key #Shorts](https://www.youtube.com/watch?v=dSDIs8jPL3Q)
 - [Flutter Tutorial - Preserve Scroll Position In ListView [2021] Page Storage Key](https://www.youtube.com/watch?v=1nxegLe15os)
 - [Flutter Preview - How to Add a Favicon [2021] Flutter Web App Icon  #Shorts](https://www.youtube.com/watch?v=Iq_gtqpmJJ8)
 - [Flutter Tutorial - How to Add a Favicon [2021] Flutter Web App Icon](https://www.youtube.com/watch?v=Rf5bcE18emM)
-- [Flutter Preview - How to Fix Bottom Overflowed When Keyboard Shows [2021] #Shorts](https://www.youtube.com/watch?v=wmUT4A_6xj0)
+- [Flutter Preview - How to Fix Bottom Overflowed When Keyboard Shows [2021] #Shorts](https://www.youtube.com/watch?v=wmUT4A_6xj0) -->
 <!-- YOUTUBE:END -->
 
-➡️ &ensp;[More Videos...](https://youtube.com/DavidCarrilho/videos)
+<!-- ➡️ &ensp;[More Videos...](https://youtube.com/DavidCarrilho/videos) -->
 
 ---
 
@@ -73,4 +73,4 @@
 [instagram]: https://www.instagram.com/daviddarrilho
 [facebook]: https://www.facebook.com/real.DavidCarrilho
 [medium]: https://medium.com/@DavidCarrilho
-[email]: mailto:hello@daviddarrilho.com
+[email]: mailto:luan.david.oliver@gmail.com
