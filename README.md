@@ -13,6 +13,8 @@
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
+---
+
 <!-- ### Connect With Me -->
 
 <!-- [<img align="left" alt="David Carrilho | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
@@ -39,7 +41,7 @@
 <br />
 <br />
 
----
+<!-- --- -->
 
 <!-- ### 📺 &ensp;Latest YouTube Videos -->
 
@@ -61,7 +63,7 @@
 <!-- - [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2) -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ➡️ &ensp;[More Articles...](https://medium.com/@DavidCarrilho) --> -->
+<!-- ➡️ &ensp;[More Articles...](https://medium.com/@DavidCarrilho) -->
 
 <!--  -->
 
