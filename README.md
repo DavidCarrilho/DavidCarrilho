@@ -15,10 +15,10 @@
 
 ### Connect With Me
 
-[<img align="left" alt="David Carrilho | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+<!-- [<img align="left" alt="David Carrilho | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
 [<img align="left" alt="David Carrilho | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
 [<img align="left" alt="David Carrilho | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
-[<img align="left" alt="David Carrilho | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
+[<img align="left" alt="David Carrilho | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin] -->
 
 <!--[<img align="left" alt="David Carrilho | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
 [<img align="left" alt="David Carrilho | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
