@@ -26,9 +26,9 @@
 [<img align="left" alt="David Carrilho | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
 [<img align="left" alt="David Carrilho | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium] -->
 
-
-<br />
-<br />
+<!--  -->
+<!-- <br />
+<br /> -->
 
 ### Languages and Tools
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][github]
