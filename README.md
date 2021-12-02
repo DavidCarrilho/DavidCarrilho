@@ -6,14 +6,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/DavidCarrilho?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: DavidCarrilho](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/DavidCarrilho/)][linkedin] -->
 
-- 🔭 &ensp;I’m currently working on [**Youtube**][youtube]!
+<!-- - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! -->
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
-### Connect With Me
+<!-- ### Connect With Me -->
 
 <!-- [<img align="left" alt="David Carrilho | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
 [<img align="left" alt="David Carrilho | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-daviddarrilho.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
@@ -29,9 +29,12 @@
 <br />
 
 ### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />]
+<!-- [youtube] -->
+[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />]
+<!-- [youtube] -->
+[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />]
+<!-- [youtube] -->
 [<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
 
 <!--  -->
@@ -39,7 +42,7 @@
 <br />
 <br />
 
-<!-- --- -->
+---
 
 <!-- ### 📺 &ensp;Latest YouTube Videos -->
 
@@ -53,15 +56,15 @@
 
 <!-- ➡️ &ensp;[More Videos...](https://youtube.com/DavidCarrilho/videos) -->
 
----
+<!-- --- -->
 
 <!-- ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2)
+<!-- - [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2) -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ &ensp;[More Articles...](https://medium.com/@DavidCarrilho) -->
+<!-- ➡️ &ensp;[More Articles...](https://medium.com/@DavidCarrilho) --> -->
 
 <!--  -->
 
