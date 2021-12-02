@@ -1,5 +1,6 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">David Carrilho!</a></h1>
-<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
+<!-- <h3 align="center">A Flutter programmer who keeps you alive 😜</h3> -->
+<h3 align="center">A Flutter programmer 😜</h3>
 
 <!-- [![Youtube](https://img.shields.io/static/v1?label=DavidCarrilho&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/DavidCarrilho?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
@@ -9,8 +10,8 @@
 <!-- - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! -->
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
-- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
-- ⚡ &ensp;Fun fact: I love reading & podcasts
+- 🗿 &ensp;I'm currently working with Flutter and I've been studying this framework for over 2 years
+- ⚡ &ensp;Fun fact: I love podcasts and playing video games
 - 📫 &ensp;How to reach me: [**Twitter**][twitter], [**Linkedin**][linkedin] or [**Email**][email].
 
 ---
