@@ -31,19 +31,13 @@
 <!-- <br />
 <br /> -->
 
-<div>
-	<a href="https://github.com/DavidCarrilho"></a>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonino&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
 ### Languages and Tools
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][github]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][github]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][github]
 [<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 
+![Snake](https://github.com/leonino/snack-svg-master/blob/master/github-contribution-grid-snakebox.svg)
 <!--  -->
 
 <!-- <br /> -->
