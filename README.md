@@ -31,6 +31,13 @@
 <!-- <br />
 <br /> -->
 
+<div>
+	<a href="https://github.com/DavidCarrilho"></a>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonino&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 ### Languages and Tools
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][github]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][github]
