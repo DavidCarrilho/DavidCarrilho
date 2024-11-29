@@ -8,10 +8,9 @@
 [![Linkedin: DavidCarrilho](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/DavidCarrilho/)][linkedin] -->
 
 <!-- - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! -->
-- 🌱 &ensp;I’m currently learning Flutter ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
-- 🗿 &ensp;I'm currently working with Flutter and I've been studying this framework for over 2 years
-- ⚡ &ensp;Fun fact: I love podcasts and playing video games
+- 🗿 &ensp;I'm currently working with Flutter and I've been studying this framework for over 5 years
+- ⚡ &ensp;Fun fact: I like podcasts and playing video games
 - 📫 &ensp;How to reach me: [**Twitter**][twitter], [**Linkedin**][linkedin] or [**Email**][email].
 
 ---
